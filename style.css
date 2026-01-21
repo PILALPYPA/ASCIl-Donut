@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: monospace;
+}
+
+pre {
+    font-size: 9px;
+    line-height: 8px;
+}
